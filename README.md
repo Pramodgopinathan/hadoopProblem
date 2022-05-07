@@ -21,6 +21,8 @@ Problem Statement:
  
  
  # Dataset 
- Analyzing the SAT (College Board) 2010 School Level Results, it is copied in the repository 
+ Analyzing the SAT (College Board) 2010 School Level Results, it is copied in the repository.
+ 
+ # Create a new directory with name 
  
  
