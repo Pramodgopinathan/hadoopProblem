@@ -24,5 +24,9 @@ Problem Statement:
  Analyzing the SAT (College Board) 2010 School Level Results, it is copied in the repository.
  
  # Create a new directory with name 
+ ![](https://github.com/Pramodgopinathan/hadoopProblem/blob/main/CreatingDirectory.png)
+ 
+ # Give permission to folder which was created
+ ![](https://github.com/Pramodgopinathan/hadoopProblem/blob/main/Permission.png)
  
  
