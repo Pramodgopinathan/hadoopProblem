@@ -142,3 +142,11 @@ public class CountSchoolsBasedOnTestTakers {
 }
 
 ```
+
+# Export classpath
+
+export CLASSPATH="/usr/local/hadoop/share/hadoop/common/hadoop-common-3.3.2.jar:/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.2.jar"
+
+Note: hadoop-core is now hadoop-common and mine is 3.3.2 you need to check which version you have. You could do it using 'find' command in terminal.
+
+# Complie Java Files
